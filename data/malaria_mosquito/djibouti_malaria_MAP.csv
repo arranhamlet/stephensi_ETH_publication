@@ -1,0 +1,51 @@
+year,estimate,country,admin,type,number,reference,source
+2010,mean,Djibouti,Djibouti,clinical cases in thousands,3,MAP,https://malariaatlas.org/trends/country/DJI
+2011,mean,Djibouti,Djibouti,clinical cases in thousands,0,MAP,https://malariaatlas.org/trends/country/DJI
+2012,mean,Djibouti,Djibouti,clinical cases in thousands,0,MAP,https://malariaatlas.org/trends/country/DJI
+2013,mean,Djibouti,Djibouti,clinical cases in thousands,4,MAP,https://malariaatlas.org/trends/country/DJI
+2014,mean,Djibouti,Djibouti,clinical cases in thousands,35,MAP,https://malariaatlas.org/trends/country/DJI
+2015,mean,Djibouti,Djibouti,clinical cases in thousands,33,MAP,https://malariaatlas.org/trends/country/DJI
+2016,mean,Djibouti,Djibouti,clinical cases in thousands,45,MAP,https://malariaatlas.org/trends/country/DJI
+2017,mean,Djibouti,Djibouti,clinical cases in thousands,34,MAP,https://malariaatlas.org/trends/country/DJI
+2018,mean,Djibouti,Djibouti,clinical cases in thousands,26,MAP,https://malariaatlas.org/trends/country/DJI
+2019,mean,Djibouti,Djibouti,clinical cases in thousands,28,MAP,https://malariaatlas.org/trends/country/DJI
+2010,lower,Djibouti,Djibouti,clinical cases in thousands,3,MAP,https://malariaatlas.org/trends/country/DJI
+2011,lower,Djibouti,Djibouti,clinical cases in thousands,0,MAP,https://malariaatlas.org/trends/country/DJI
+2012,lower,Djibouti,Djibouti,clinical cases in thousands,0,MAP,https://malariaatlas.org/trends/country/DJI
+2013,lower,Djibouti,Djibouti,clinical cases in thousands,3,MAP,https://malariaatlas.org/trends/country/DJI
+2014,lower,Djibouti,Djibouti,clinical cases in thousands,27,MAP,https://malariaatlas.org/trends/country/DJI
+2015,lower,Djibouti,Djibouti,clinical cases in thousands,27,MAP,https://malariaatlas.org/trends/country/DJI
+2016,lower,Djibouti,Djibouti,clinical cases in thousands,35,MAP,https://malariaatlas.org/trends/country/DJI
+2017,lower,Djibouti,Djibouti,clinical cases in thousands,27,MAP,https://malariaatlas.org/trends/country/DJI
+2018,lower,Djibouti,Djibouti,clinical cases in thousands,0,MAP,https://malariaatlas.org/trends/country/DJI
+2019,lower,Djibouti,Djibouti,clinical cases in thousands,0,MAP,https://malariaatlas.org/trends/country/DJI
+2010,upper,Djibouti,Djibouti,clinical cases in thousands,4,MAP,https://malariaatlas.org/trends/country/DJI
+2011,upper,Djibouti,Djibouti,clinical cases in thousands,0,MAP,https://malariaatlas.org/trends/country/DJI
+2012,upper,Djibouti,Djibouti,clinical cases in thousands,0,MAP,https://malariaatlas.org/trends/country/DJI
+2013,upper,Djibouti,Djibouti,clinical cases in thousands,5,MAP,https://malariaatlas.org/trends/country/DJI
+2014,upper,Djibouti,Djibouti,clinical cases in thousands,45,MAP,https://malariaatlas.org/trends/country/DJI
+2015,upper,Djibouti,Djibouti,clinical cases in thousands,43,MAP,https://malariaatlas.org/trends/country/DJI
+2016,upper,Djibouti,Djibouti,clinical cases in thousands,56,MAP,https://malariaatlas.org/trends/country/DJI
+2017,upper,Djibouti,Djibouti,clinical cases in thousands,42,MAP,https://malariaatlas.org/trends/country/DJI
+2018,upper,Djibouti,Djibouti,clinical cases in thousands,151,MAP,https://malariaatlas.org/trends/country/DJI
+2019,upper,Djibouti,Djibouti,clinical cases in thousands,163,MAP,https://malariaatlas.org/trends/country/DJI
+2010,mean,Djibouti,Djibouti,Presumed and confirmed,1.01,WHO,World Malaria Report 2020
+2011,mean,Djibouti,Djibouti,Presumed and confirmed,0.23,WHO,World Malaria Report 2021
+2012,mean,Djibouti,Djibouti,Presumed and confirmed,0.027,WHO,World Malaria Report 2022
+2013,mean,Djibouti,Djibouti,Presumed and confirmed,1.684,WHO,World Malaria Report 2023
+2014,mean,Djibouti,Djibouti,Presumed and confirmed,9.439,WHO,World Malaria Report 2024
+2015,mean,Djibouti,Djibouti,Presumed and confirmed,9.557,WHO,World Malaria Report 2025
+2016,mean,Djibouti,Djibouti,Presumed and confirmed,13.804,WHO,World Malaria Report 2026
+2017,mean,Djibouti,Djibouti,Presumed and confirmed,14.671,WHO,World Malaria Report 2027
+2018,mean,Djibouti,Djibouti,Presumed and confirmed,25.319,WHO,World Malaria Report 2028
+2019,mean,Djibouti,Djibouti,Presumed and confirmed,49.402,WHO,World Malaria Report 2029
+2010,mean,Djibouti,Djibouti,Estimated,1.01,WHO,World Malaria Report 2030
+2011,mean,Djibouti,Djibouti,Estimated,2.18,WHO,World Malaria Report 2031
+2012,mean,Djibouti,Djibouti,Estimated,2.217,WHO,World Malaria Report 2032
+2013,mean,Djibouti,Djibouti,Estimated,1.684,WHO,World Malaria Report 2033
+2014,mean,Djibouti,Djibouti,Estimated,9.439,WHO,World Malaria Report 2034
+2015,mean,Djibouti,Djibouti,Estimated,9.473,WHO,World Malaria Report 2035
+2016,mean,Djibouti,Djibouti,Estimated,13.804,WHO,World Malaria Report 2036
+2017,mean,Djibouti,Djibouti,Estimated,14.671,WHO,World Malaria Report 2037
+2018,mean,Djibouti,Djibouti,Estimated,25.319,WHO,World Malaria Report 2038
+2019,mean,Djibouti,Djibouti,Estimated,49.402,WHO,World Malaria Report 2039
