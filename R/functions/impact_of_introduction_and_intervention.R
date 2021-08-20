@@ -16,9 +16,9 @@ impact_of_introduction_and_intervention <- function(start_prevalence,
                                                     surv_bioassay = 0,
                                                     seasonality = F,
                                                     which_prevalence = "prev",
-                                                    burn_in_time = 365 * 10,
-                                                    introduction_time = 365 * 5,
-                                                    after_time = 365 * 10,
+                                                    burn_in_time = 365 * 9,
+                                                    introduction_time = 365 * 3,
+                                                    after_time = 365 * 15,
                                                     admin_unit = NULL,
                                                     country = NULL,
                                                     
@@ -221,7 +221,7 @@ impact_of_introduction_and_intervention <- function(start_prevalence,
       model_ran <- as.data.frame(out)
       
       #This gets rid of the dead time in the burn in to reduce size
-      model_ran_subset <- model_ran
+      model_ran_subset <- subset(model_ran, t >= (burn_in_time - (365 * 3)))
       
       these_columns <- c("Sporozoite rate" = "sporozoite_rate",
                          "Incidence" = "Incidence",
@@ -239,7 +239,7 @@ impact_of_introduction_and_intervention <- function(start_prevalence,
                              location = location,
                              int_decode = intervention_decoded,
                              intervention_combo = paste(c(itn_vector_compact, irs_vector_compact, larvicide_vector_compact, t_itn_compact, t_irs_compact, t_larvicide_compact), collapse = "_"),
-                             year = model_ran_subset$t,
+                             year = model_ran_subset$t/365,
                              type = rep(unpack_take_these, 
                                         each = length(model_ran_subset$t)),
                              value = as.numeric(extract_values),
